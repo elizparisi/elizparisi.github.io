@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Rails Project- BeFound App"
-date:       2021-04-10 23:07:10 +0000
+title:      "Rails Project - BeFound App"
+date:       2021-04-10 19:07:11 -0400
 permalink:  rails_project-_befound_app
 ---
 
